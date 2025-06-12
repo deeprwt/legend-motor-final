@@ -1,0 +1,10 @@
+pluginManagement { includeBuild("../node_modules/@react-native/gradle-plugin") }
+plugins { id("com.facebook.react.settings") }
+extensions.configure(com.facebook.react.ReactSettingsExtension){ ex -> 
+    // Use the new autolink process which should handle all React Native modules
+    ex.autolinkLibrariesFromCommand() 
+}
+
+rootProject.name = 'legend_motors'
+include ':app'
+includeBuild('../node_modules/@react-native/gradle-plugin')

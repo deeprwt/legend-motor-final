@@ -1,0 +1,949 @@
+{
+    "success": true,
+    "message": "Car retrieved successfully",
+    "data": {
+      "id": 124,
+      "stockId": "TOY-UC-UBGLX-PV-1.5-AT-WHBKR-BK-RD-25",
+      "description": "<p><strong>2025 TOYOTA URBAN CRUISER GLX 1.5 - WHITE BODY &amp; BLACK ROOF inside BLACK &amp; RED</strong></p><p></p><p>Key features</p><p>•\t17” alloy wheels</p><p>•\tLeather seats </p><p>•\tWireless Charger </p><p>•\tHeads-Up Display </p><p>•\tCruise control </p><p>•\tMultifunction steering wheel</p><p>•\tPaddle shift </p><p>•\tPower windows</p><p>•\tPower mirror</p><p>•\tPower door locks</p><p>•\tPower tailgate</p><p>•\t9” Touch screen + MP3+ Bluetooth + USB </p><p>•\tKeyless entry system </p><p>•\tPush start system</p><p>•\tRoof rails </p><p>•\tRoof end spoiler </p><p>•\tLED Projector Headlamp </p><p>•\tLED Daytime Running Lamp</p><p>•\tRear fog lamps </p><p>•\tRear window wiper &amp; washer </p><p>•\tParking sensor </p><p>•\tTPMS, ABS/EBD+ESP+Hill hold</p><p></p><p></p>",
+      "slug": "2025-toyota-urban-cruiser-glx-2025-toyota-urban-cruiser-glx-1-5-white-body-black-roof-inside-black-red",
+      "status": "published",
+      "brochureId": "5f2fb577-c3b6-478e-b533-58d21bffd0db",
+      "brandId": 2,
+      "modelId": 45,
+      "trimId": 61,
+      "yearId": 1,
+      "engineSize": 1.5,
+      "horsepower": null,
+      "additionalInfo": "2025 TOYOTA URBAN CRUISER GLX 1.5 - WHITE BODY & BLACK ROOF inside BLACK & RED",
+      "createdAt": "2025-03-19T13:58:17.970Z",
+      "updatedAt": "2025-03-19T13:58:17.970Z",
+      "Brand": {
+        "id": 2,
+        "slug": "toyota",
+        "name": "TOYOTA"
+      },
+      "CarModel": {
+        "id": 45,
+        "slug": "urban-cruiser",
+        "name": "URBAN CRUISER"
+      },
+      "Trim": {
+        "id": 61,
+        "slug": "glx",
+        "name": "GLX"
+      },
+      "Year": {
+        "id": 1,
+        "year": 2025
+      },
+      "CarImages": [
+        {
+          "id": 5911,
+          "fileId": "b1885cee-7215-4ba4-9515-9ef69bb00592",
+          "type": "interior",
+          "order": 1,
+          "FileSystem": {
+            "id": "b1885cee-7215-4ba4-9515-9ef69bb00592",
+            "name": "2025-TOYOTA-URBANCRUISER-GLX-10-937496.jpg",
+            "isDirectory": false,
+            "path": "/2025-TOYOTA-URBANCRUISER-GLX-10-937496.jpg",
+            "parentId": null,
+            "size": 429209,
+            "mimeType": "image/jpeg",
+            "originalPath": "/2025-TOYOTA-URBANCRUISER-GLX-10-937496.jpg",
+            "compressedPath": "/2025-TOYOTA-URBANCRUISER-GLX-10-937496-compressed.jpg",
+            "thumbnailPath": "/2025-TOYOTA-URBANCRUISER-GLX-10-937496-thumbnail.jpg",
+            "webpPath": "/2025-TOYOTA-URBANCRUISER-GLX-10-937496.webp",
+            "createdAt": "2025-03-19T13:56:53.236Z",
+            "updatedAt": "2025-03-19T13:56:53.236Z"
+          }
+        },
+        {
+          "id": 5912,
+          "fileId": "b8f876fb-6368-4d0d-906f-6c1abb3d1257",
+          "type": "interior",
+          "order": 2,
+          "FileSystem": {
+            "id": "b8f876fb-6368-4d0d-906f-6c1abb3d1257",
+            "name": "2025-TOYOTA-URBANCRUISER-GLX-11-711286.jpg",
+            "isDirectory": false,
+            "path": "/2025-TOYOTA-URBANCRUISER-GLX-11-711286.jpg",
+            "parentId": null,
+            "size": 403475,
+            "mimeType": "image/jpeg",
+            "originalPath": "/2025-TOYOTA-URBANCRUISER-GLX-11-711286.jpg",
+            "compressedPath": "/2025-TOYOTA-URBANCRUISER-GLX-11-711286-compressed.jpg",
+            "thumbnailPath": "/2025-TOYOTA-URBANCRUISER-GLX-11-711286-thumbnail.jpg",
+            "webpPath": "/2025-TOYOTA-URBANCRUISER-GLX-11-711286.webp",
+            "createdAt": "2025-03-19T13:56:56.443Z",
+            "updatedAt": "2025-03-19T13:56:56.443Z"
+          }
+        },
+        {
+          "id": 5913,
+          "fileId": "a18d15ea-c9dc-4ffd-b9a7-73189d1bad61",
+          "type": "interior",
+          "order": 3,
+          "FileSystem": {
+            "id": "a18d15ea-c9dc-4ffd-b9a7-73189d1bad61",
+            "name": "2025-TOYOTA-URBANCRUISER-GLX-12-882419.jpg",
+            "isDirectory": false,
+            "path": "/2025-TOYOTA-URBANCRUISER-GLX-12-882419.jpg",
+            "parentId": null,
+            "size": 396981,
+            "mimeType": "image/jpeg",
+            "originalPath": "/2025-TOYOTA-URBANCRUISER-GLX-12-882419.jpg",
+            "compressedPath": "/2025-TOYOTA-URBANCRUISER-GLX-12-882419-compressed.jpg",
+            "thumbnailPath": "/2025-TOYOTA-URBANCRUISER-GLX-12-882419-thumbnail.jpg",
+            "webpPath": "/2025-TOYOTA-URBANCRUISER-GLX-12-882419.webp",
+            "createdAt": "2025-03-19T13:56:59.539Z",
+            "updatedAt": "2025-03-19T13:56:59.539Z"
+          }
+        },
+        {
+          "id": 5914,
+          "fileId": "d2076076-dac7-4753-ad22-4c642f25cacf",
+          "type": "interior",
+          "order": 4,
+          "FileSystem": {
+            "id": "d2076076-dac7-4753-ad22-4c642f25cacf",
+            "name": "2025-TOYOTA-URBANCRUISER-GLX-18-831182.jpg",
+            "isDirectory": false,
+            "path": "/2025-TOYOTA-URBANCRUISER-GLX-18-831182.jpg",
+            "parentId": null,
+            "size": 644796,
+            "mimeType": "image/jpeg",
+            "originalPath": "/2025-TOYOTA-URBANCRUISER-GLX-18-831182.jpg",
+            "compressedPath": "/2025-TOYOTA-URBANCRUISER-GLX-18-831182-compressed.jpg",
+            "thumbnailPath": "/2025-TOYOTA-URBANCRUISER-GLX-18-831182-thumbnail.jpg",
+            "webpPath": "/2025-TOYOTA-URBANCRUISER-GLX-18-831182.webp",
+            "createdAt": "2025-03-19T13:57:28.640Z",
+            "updatedAt": "2025-03-19T13:57:28.640Z"
+          }
+        },
+        {
+          "id": 5915,
+          "fileId": "8c6001ce-259a-4d8c-a9d1-253a33ab986d",
+          "type": "interior",
+          "order": 5,
+          "FileSystem": {
+            "id": "8c6001ce-259a-4d8c-a9d1-253a33ab986d",
+            "name": "2025-TOYOTA-URBANCRUISER-GLX-15-753882.jpg",
+            "isDirectory": false,
+            "path": "/2025-TOYOTA-URBANCRUISER-GLX-15-753882.jpg",
+            "parentId": null,
+            "size": 525393,
+            "mimeType": "image/jpeg",
+            "originalPath": "/2025-TOYOTA-URBANCRUISER-GLX-15-753882.jpg",
+            "compressedPath": "/2025-TOYOTA-URBANCRUISER-GLX-15-753882-compressed.jpg",
+            "thumbnailPath": "/2025-TOYOTA-URBANCRUISER-GLX-15-753882-thumbnail.jpg",
+            "webpPath": "/2025-TOYOTA-URBANCRUISER-GLX-15-753882.webp",
+            "createdAt": "2025-03-19T13:57:08.852Z",
+            "updatedAt": "2025-03-19T13:57:08.852Z"
+          }
+        },
+        {
+          "id": 5916,
+          "fileId": "7b546f35-a71e-4f31-addf-577516d16055",
+          "type": "interior",
+          "order": 6,
+          "FileSystem": {
+            "id": "7b546f35-a71e-4f31-addf-577516d16055",
+            "name": "2025-TOYOTA-URBANCRUISER-GLX-16-123982.jpg",
+            "isDirectory": false,
+            "path": "/2025-TOYOTA-URBANCRUISER-GLX-16-123982.jpg",
+            "parentId": null,
+            "size": 433395,
+            "mimeType": "image/jpeg",
+            "originalPath": "/2025-TOYOTA-URBANCRUISER-GLX-16-123982.jpg",
+            "compressedPath": "/2025-TOYOTA-URBANCRUISER-GLX-16-123982-compressed.jpg",
+            "thumbnailPath": "/2025-TOYOTA-URBANCRUISER-GLX-16-123982-thumbnail.jpg",
+            "webpPath": "/2025-TOYOTA-URBANCRUISER-GLX-16-123982.webp",
+            "createdAt": "2025-03-19T13:57:15.992Z",
+            "updatedAt": "2025-03-19T13:57:15.992Z"
+          }
+        },
+        {
+          "id": 5917,
+          "fileId": "8527267c-2fe6-474c-a2a1-0492af3bf7db",
+          "type": "interior",
+          "order": 7,
+          "FileSystem": {
+            "id": "8527267c-2fe6-474c-a2a1-0492af3bf7db",
+            "name": "2025-TOYOTA-URBANCRUISER-GLX-17-240219.jpg",
+            "isDirectory": false,
+            "path": "/2025-TOYOTA-URBANCRUISER-GLX-17-240219.jpg",
+            "parentId": null,
+            "size": 470697,
+            "mimeType": "image/jpeg",
+            "originalPath": "/2025-TOYOTA-URBANCRUISER-GLX-17-240219.jpg",
+            "compressedPath": "/2025-TOYOTA-URBANCRUISER-GLX-17-240219-compressed.jpg",
+            "thumbnailPath": "/2025-TOYOTA-URBANCRUISER-GLX-17-240219-thumbnail.jpg",
+            "webpPath": "/2025-TOYOTA-URBANCRUISER-GLX-17-240219.webp",
+            "createdAt": "2025-03-19T13:57:22.185Z",
+            "updatedAt": "2025-03-19T13:57:22.185Z"
+          }
+        },
+        {
+          "id": 5918,
+          "fileId": "d8843e73-24b3-4734-a1d1-6e10bc9d8caf",
+          "type": "interior",
+          "order": 8,
+          "FileSystem": {
+            "id": "d8843e73-24b3-4734-a1d1-6e10bc9d8caf",
+            "name": "2025-TOYOTA-URBANCRUISER-GLX-19-320848.jpg",
+            "isDirectory": false,
+            "path": "/2025-TOYOTA-URBANCRUISER-GLX-19-320848.jpg",
+            "parentId": null,
+            "size": 550443,
+            "mimeType": "image/jpeg",
+            "originalPath": "/2025-TOYOTA-URBANCRUISER-GLX-19-320848.jpg",
+            "compressedPath": "/2025-TOYOTA-URBANCRUISER-GLX-19-320848-compressed.jpg",
+            "thumbnailPath": "/2025-TOYOTA-URBANCRUISER-GLX-19-320848-thumbnail.jpg",
+            "webpPath": "/2025-TOYOTA-URBANCRUISER-GLX-19-320848.webp",
+            "createdAt": "2025-03-19T13:57:37.080Z",
+            "updatedAt": "2025-03-19T13:57:37.080Z"
+          }
+        },
+        {
+          "id": 5919,
+          "fileId": "65a96740-d4e7-4947-a1b5-2f6a3e4acb20",
+          "type": "interior",
+          "order": 9,
+          "FileSystem": {
+            "id": "65a96740-d4e7-4947-a1b5-2f6a3e4acb20",
+            "name": "2025-TOYOTA-URBANCRUISER-GLX-23-394470.jpg",
+            "isDirectory": false,
+            "path": "/2025-TOYOTA-URBANCRUISER-GLX-23-394470.jpg",
+            "parentId": null,
+            "size": 468666,
+            "mimeType": "image/jpeg",
+            "originalPath": "/2025-TOYOTA-URBANCRUISER-GLX-23-394470.jpg",
+            "compressedPath": "/2025-TOYOTA-URBANCRUISER-GLX-23-394470-compressed.jpg",
+            "thumbnailPath": "/2025-TOYOTA-URBANCRUISER-GLX-23-394470-thumbnail.jpg",
+            "webpPath": "/2025-TOYOTA-URBANCRUISER-GLX-23-394470.webp",
+            "createdAt": "2025-03-19T13:58:04.250Z",
+            "updatedAt": "2025-03-19T13:58:04.250Z"
+          }
+        },
+        {
+          "id": 5920,
+          "fileId": "18953ac5-9eee-4121-b4d4-239d57848cba",
+          "type": "interior",
+          "order": 10,
+          "FileSystem": {
+            "id": "18953ac5-9eee-4121-b4d4-239d57848cba",
+            "name": "2025-TOYOTA-URBANCRUISER-GLX-9-155970.jpg",
+            "isDirectory": false,
+            "path": "/2025-TOYOTA-URBANCRUISER-GLX-9-155970.jpg",
+            "parentId": null,
+            "size": 354439,
+            "mimeType": "image/jpeg",
+            "originalPath": "/2025-TOYOTA-URBANCRUISER-GLX-9-155970.jpg",
+            "compressedPath": "/2025-TOYOTA-URBANCRUISER-GLX-9-155970-compressed.jpg",
+            "thumbnailPath": "/2025-TOYOTA-URBANCRUISER-GLX-9-155970-thumbnail.jpg",
+            "webpPath": "/2025-TOYOTA-URBANCRUISER-GLX-9-155970.webp",
+            "createdAt": "2025-03-19T13:56:50.293Z",
+            "updatedAt": "2025-03-19T13:56:50.293Z"
+          }
+        },
+        {
+          "id": 5921,
+          "fileId": "10fade05-0493-4197-9c03-43125f83b3f4",
+          "type": "interior",
+          "order": 11,
+          "FileSystem": {
+            "id": "10fade05-0493-4197-9c03-43125f83b3f4",
+            "name": "2025-TOYOTA-URBANCRUISER-GLX-21-172793.jpg",
+            "isDirectory": false,
+            "path": "/2025-TOYOTA-URBANCRUISER-GLX-21-172793.jpg",
+            "parentId": null,
+            "size": 484316,
+            "mimeType": "image/jpeg",
+            "originalPath": "/2025-TOYOTA-URBANCRUISER-GLX-21-172793.jpg",
+            "compressedPath": "/2025-TOYOTA-URBANCRUISER-GLX-21-172793-compressed.jpg",
+            "thumbnailPath": "/2025-TOYOTA-URBANCRUISER-GLX-21-172793-thumbnail.jpg",
+            "webpPath": "/2025-TOYOTA-URBANCRUISER-GLX-21-172793.webp",
+            "createdAt": "2025-03-19T13:57:49.864Z",
+            "updatedAt": "2025-03-19T13:57:49.864Z"
+          }
+        },
+        {
+          "id": 5922,
+          "fileId": "c8c1d1b6-6041-4e5f-8bbf-f863a41097b4",
+          "type": "interior",
+          "order": 12,
+          "FileSystem": {
+            "id": "c8c1d1b6-6041-4e5f-8bbf-f863a41097b4",
+            "name": "2025-TOYOTA-URBANCRUISER-GLX-14-403261.jpg",
+            "isDirectory": false,
+            "path": "/2025-TOYOTA-URBANCRUISER-GLX-14-403261.jpg",
+            "parentId": null,
+            "size": 309273,
+            "mimeType": "image/jpeg",
+            "originalPath": "/2025-TOYOTA-URBANCRUISER-GLX-14-403261.jpg",
+            "compressedPath": "/2025-TOYOTA-URBANCRUISER-GLX-14-403261-compressed.jpg",
+            "thumbnailPath": "/2025-TOYOTA-URBANCRUISER-GLX-14-403261-thumbnail.jpg",
+            "webpPath": "/2025-TOYOTA-URBANCRUISER-GLX-14-403261.webp",
+            "createdAt": "2025-03-19T13:57:05.737Z",
+            "updatedAt": "2025-03-19T13:57:05.737Z"
+          }
+        },
+        {
+          "id": 5923,
+          "fileId": "4ae02db9-fa8c-4407-8f4e-740e05725441",
+          "type": "interior",
+          "order": 13,
+          "FileSystem": {
+            "id": "4ae02db9-fa8c-4407-8f4e-740e05725441",
+            "name": "2025-TOYOTA-URBANCRUISER-GLX-22-579734.jpg",
+            "isDirectory": false,
+            "path": "/2025-TOYOTA-URBANCRUISER-GLX-22-579734.jpg",
+            "parentId": null,
+            "size": 576320,
+            "mimeType": "image/jpeg",
+            "originalPath": "/2025-TOYOTA-URBANCRUISER-GLX-22-579734.jpg",
+            "compressedPath": "/2025-TOYOTA-URBANCRUISER-GLX-22-579734-compressed.jpg",
+            "thumbnailPath": "/2025-TOYOTA-URBANCRUISER-GLX-22-579734-thumbnail.jpg",
+            "webpPath": "/2025-TOYOTA-URBANCRUISER-GLX-22-579734.webp",
+            "createdAt": "2025-03-19T13:57:56.829Z",
+            "updatedAt": "2025-03-19T13:57:56.829Z"
+          }
+        },
+        {
+          "id": 5924,
+          "fileId": "93e51a5d-8b59-49a9-a9ba-1e825ce39bec",
+          "type": "interior",
+          "order": 14,
+          "FileSystem": {
+            "id": "93e51a5d-8b59-49a9-a9ba-1e825ce39bec",
+            "name": "2025-TOYOTA-URBANCRUISER-GLX-20-595793.jpg",
+            "isDirectory": false,
+            "path": "/2025-TOYOTA-URBANCRUISER-GLX-20-595793.jpg",
+            "parentId": null,
+            "size": 478431,
+            "mimeType": "image/jpeg",
+            "originalPath": "/2025-TOYOTA-URBANCRUISER-GLX-20-595793.jpg",
+            "compressedPath": "/2025-TOYOTA-URBANCRUISER-GLX-20-595793-compressed.jpg",
+            "thumbnailPath": "/2025-TOYOTA-URBANCRUISER-GLX-20-595793-thumbnail.jpg",
+            "webpPath": "/2025-TOYOTA-URBANCRUISER-GLX-20-595793.webp",
+            "createdAt": "2025-03-19T13:57:43.751Z",
+            "updatedAt": "2025-03-19T13:57:43.751Z"
+          }
+        },
+        {
+          "id": 5925,
+          "fileId": "57f25088-bedc-45fb-9985-15869392b270",
+          "type": "interior",
+          "order": 15,
+          "FileSystem": {
+            "id": "57f25088-bedc-45fb-9985-15869392b270",
+            "name": "2025-TOYOTA-URBANCRUISER-GLX-8-446322.jpg",
+            "isDirectory": false,
+            "path": "/2025-TOYOTA-URBANCRUISER-GLX-8-446322.jpg",
+            "parentId": null,
+            "size": 424492,
+            "mimeType": "image/jpeg",
+            "originalPath": "/2025-TOYOTA-URBANCRUISER-GLX-8-446322.jpg",
+            "compressedPath": "/2025-TOYOTA-URBANCRUISER-GLX-8-446322-compressed.jpg",
+            "thumbnailPath": "/2025-TOYOTA-URBANCRUISER-GLX-8-446322-thumbnail.jpg",
+            "webpPath": "/2025-TOYOTA-URBANCRUISER-GLX-8-446322.webp",
+            "createdAt": "2025-03-19T13:56:47.325Z",
+            "updatedAt": "2025-03-19T13:56:47.325Z"
+          }
+        },
+        {
+          "id": 5926,
+          "fileId": "5be3e5b5-4211-416e-a677-8739b7ad10f9",
+          "type": "exterior",
+          "order": 1,
+          "FileSystem": {
+            "id": "5be3e5b5-4211-416e-a677-8739b7ad10f9",
+            "name": "2025-TOYOTA-URBANCRUISER-GLX-2-572510.jpg",
+            "isDirectory": false,
+            "path": "/2025-TOYOTA-URBANCRUISER-GLX-2-572510.jpg",
+            "parentId": null,
+            "size": 604407,
+            "mimeType": "image/jpeg",
+            "originalPath": "/2025-TOYOTA-URBANCRUISER-GLX-2-572510.jpg",
+            "compressedPath": "/2025-TOYOTA-URBANCRUISER-GLX-2-572510-compressed.jpg",
+            "thumbnailPath": "/2025-TOYOTA-URBANCRUISER-GLX-2-572510-thumbnail.jpg",
+            "webpPath": "/2025-TOYOTA-URBANCRUISER-GLX-2-572510.webp",
+            "createdAt": "2025-03-19T13:56:43.543Z",
+            "updatedAt": "2025-03-19T13:56:43.543Z"
+          }
+        },
+        {
+          "id": 5927,
+          "fileId": "147f505a-4f5b-48d0-8ad6-4992d12a02fd",
+          "type": "exterior",
+          "order": 2,
+          "FileSystem": {
+            "id": "147f505a-4f5b-48d0-8ad6-4992d12a02fd",
+            "name": "2025-TOYOTA-URBANCRUISER-GLX-1-620558.jpg",
+            "isDirectory": false,
+            "path": "/2025-TOYOTA-URBANCRUISER-GLX-1-620558.jpg",
+            "parentId": null,
+            "size": 550486,
+            "mimeType": "image/jpeg",
+            "originalPath": "/2025-TOYOTA-URBANCRUISER-GLX-1-620558.jpg",
+            "compressedPath": "/2025-TOYOTA-URBANCRUISER-GLX-1-620558-compressed.jpg",
+            "thumbnailPath": "/2025-TOYOTA-URBANCRUISER-GLX-1-620558-thumbnail.jpg",
+            "webpPath": "/2025-TOYOTA-URBANCRUISER-GLX-1-620558.webp",
+            "createdAt": "2025-03-19T13:56:39.981Z",
+            "updatedAt": "2025-03-19T13:56:39.981Z"
+          }
+        },
+        {
+          "id": 5928,
+          "fileId": "d15c33c9-991f-44de-ad5e-ffa8b305f221",
+          "type": "exterior",
+          "order": 3,
+          "FileSystem": {
+            "id": "d15c33c9-991f-44de-ad5e-ffa8b305f221",
+            "name": "2025-TOYOTA-URBANCRUISER-GLX-3-390307.jpg",
+            "isDirectory": false,
+            "path": "/2025-TOYOTA-URBANCRUISER-GLX-3-390307.jpg",
+            "parentId": null,
+            "size": 624495,
+            "mimeType": "image/jpeg",
+            "originalPath": "/2025-TOYOTA-URBANCRUISER-GLX-3-390307.jpg",
+            "compressedPath": "/2025-TOYOTA-URBANCRUISER-GLX-3-390307-compressed.jpg",
+            "thumbnailPath": "/2025-TOYOTA-URBANCRUISER-GLX-3-390307-thumbnail.jpg",
+            "webpPath": "/2025-TOYOTA-URBANCRUISER-GLX-3-390307.webp",
+            "createdAt": "2025-03-19T13:56:46.902Z",
+            "updatedAt": "2025-03-19T13:56:46.902Z"
+          }
+        },
+        {
+          "id": 5929,
+          "fileId": "a8c76a90-0e0d-42ea-92bb-359029d94fc9",
+          "type": "exterior",
+          "order": 4,
+          "FileSystem": {
+            "id": "a8c76a90-0e0d-42ea-92bb-359029d94fc9",
+            "name": "2025-TOYOTA-URBANCRUISER-GLX-4-674110.jpg",
+            "isDirectory": false,
+            "path": "/2025-TOYOTA-URBANCRUISER-GLX-4-674110.jpg",
+            "parentId": null,
+            "size": 606735,
+            "mimeType": "image/jpeg",
+            "originalPath": "/2025-TOYOTA-URBANCRUISER-GLX-4-674110.jpg",
+            "compressedPath": "/2025-TOYOTA-URBANCRUISER-GLX-4-674110-compressed.jpg",
+            "thumbnailPath": "/2025-TOYOTA-URBANCRUISER-GLX-4-674110-thumbnail.jpg",
+            "webpPath": "/2025-TOYOTA-URBANCRUISER-GLX-4-674110.webp",
+            "createdAt": "2025-03-19T13:57:08.297Z",
+            "updatedAt": "2025-03-19T13:57:08.297Z"
+          }
+        },
+        {
+          "id": 5930,
+          "fileId": "7daae521-f7b6-4ca5-addf-2d42a948bb01",
+          "type": "exterior",
+          "order": 5,
+          "FileSystem": {
+            "id": "7daae521-f7b6-4ca5-addf-2d42a948bb01",
+            "name": "2025-TOYOTA-URBANCRUISER-GLX-5-103414.jpg",
+            "isDirectory": false,
+            "path": "/2025-TOYOTA-URBANCRUISER-GLX-5-103414.jpg",
+            "parentId": null,
+            "size": 521545,
+            "mimeType": "image/jpeg",
+            "originalPath": "/2025-TOYOTA-URBANCRUISER-GLX-5-103414.jpg",
+            "compressedPath": "/2025-TOYOTA-URBANCRUISER-GLX-5-103414-compressed.jpg",
+            "thumbnailPath": "/2025-TOYOTA-URBANCRUISER-GLX-5-103414-thumbnail.jpg",
+            "webpPath": "/2025-TOYOTA-URBANCRUISER-GLX-5-103414.webp",
+            "createdAt": "2025-03-19T13:57:11.563Z",
+            "updatedAt": "2025-03-19T13:57:11.563Z"
+          }
+        },
+        {
+          "id": 5931,
+          "fileId": "e4e52e22-5b62-4bab-8f0f-ece80506a8b2",
+          "type": "exterior",
+          "order": 6,
+          "FileSystem": {
+            "id": "e4e52e22-5b62-4bab-8f0f-ece80506a8b2",
+            "name": "2025-TOYOTA-URBANCRUISER-GLX-6-151642.jpg",
+            "isDirectory": false,
+            "path": "/2025-TOYOTA-URBANCRUISER-GLX-6-151642.jpg",
+            "parentId": null,
+            "size": 508930,
+            "mimeType": "image/jpeg",
+            "originalPath": "/2025-TOYOTA-URBANCRUISER-GLX-6-151642.jpg",
+            "compressedPath": "/2025-TOYOTA-URBANCRUISER-GLX-6-151642-compressed.jpg",
+            "thumbnailPath": "/2025-TOYOTA-URBANCRUISER-GLX-6-151642-thumbnail.jpg",
+            "webpPath": "/2025-TOYOTA-URBANCRUISER-GLX-6-151642.webp",
+            "createdAt": "2025-03-19T13:57:14.689Z",
+            "updatedAt": "2025-03-19T13:57:14.689Z"
+          }
+        },
+        {
+          "id": 5932,
+          "fileId": "f61617b5-7549-48f8-87b1-c86241a97633",
+          "type": "exterior",
+          "order": 7,
+          "FileSystem": {
+            "id": "f61617b5-7549-48f8-87b1-c86241a97633",
+            "name": "2025-TOYOTA-URBANCRUISER-GLX-7-834975.jpg",
+            "isDirectory": false,
+            "path": "/2025-TOYOTA-URBANCRUISER-GLX-7-834975.jpg",
+            "parentId": null,
+            "size": 657056,
+            "mimeType": "image/jpeg",
+            "originalPath": "/2025-TOYOTA-URBANCRUISER-GLX-7-834975.jpg",
+            "compressedPath": "/2025-TOYOTA-URBANCRUISER-GLX-7-834975-compressed.jpg",
+            "thumbnailPath": "/2025-TOYOTA-URBANCRUISER-GLX-7-834975-thumbnail.jpg",
+            "webpPath": "/2025-TOYOTA-URBANCRUISER-GLX-7-834975.webp",
+            "createdAt": "2025-03-19T13:56:36.251Z",
+            "updatedAt": "2025-03-19T13:56:36.251Z"
+          }
+        }
+      ],
+      "SpecificationValues": [
+        {
+          "id": 1,
+          "name": "GCC",
+          "Specification": {
+            "id": 1,
+            "key": "regional_specification",
+            "name": "Regional Specification"
+          }
+        },
+        {
+          "id": 11,
+          "name": "Left-hand drive",
+          "Specification": {
+            "id": 2,
+            "key": "steering_side",
+            "name": "Steering Side"
+          }
+        },
+        {
+          "id": 13,
+          "name": "White",
+          "Specification": {
+            "id": 3,
+            "key": "color",
+            "name": "Color"
+          }
+        },
+        {
+          "id": 33,
+          "name": "Red",
+          "Specification": {
+            "id": 4,
+            "key": "interior_color",
+            "name": "Interior Color"
+          }
+        },
+        {
+          "id": 42,
+          "name": "17 inches",
+          "Specification": {
+            "id": 5,
+            "key": "wheel_size",
+            "name": "Wheel Size"
+          }
+        },
+        {
+          "id": 51,
+          "name": "SUV",
+          "Specification": {
+            "id": 6,
+            "key": "body_type",
+            "name": "Body Type"
+          }
+        },
+        {
+          "id": 61,
+          "name": "5-Seater",
+          "Specification": {
+            "id": 7,
+            "key": "seats",
+            "name": "Seats"
+          }
+        },
+        {
+          "id": 71,
+          "name": "4 Doors",
+          "Specification": {
+            "id": 8,
+            "key": "doors",
+            "name": "Doors"
+          }
+        },
+        {
+          "id": 74,
+          "name": "Petrol",
+          "Specification": {
+            "id": 9,
+            "key": "fuel_type",
+            "name": "Fuel Type"
+          }
+        },
+        {
+          "id": 83,
+          "name": "4 Cylinders",
+          "Specification": {
+            "id": 10,
+            "key": "cylinders",
+            "name": "Cylinders"
+          }
+        },
+        {
+          "id": 90,
+          "name": "Front-Wheel Drive (FWD)",
+          "Specification": {
+            "id": 11,
+            "key": "drive_type",
+            "name": "Drive Type"
+          }
+        },
+        {
+          "id": 95,
+          "name": "Automatic",
+          "Specification": {
+            "id": 12,
+            "key": "transmission",
+            "name": "Transmission"
+          }
+        }
+      ],
+      "FeatureValues": [
+        {
+          "id": 6,
+          "name": "USB",
+          "Feature": {
+            "id": 1,
+            "key": "interior_feature",
+            "name": "Interior Feature"
+          }
+        },
+        {
+          "id": 14,
+          "name": "Power Mirrors",
+          "Feature": {
+            "id": 1,
+            "key": "interior_feature",
+            "name": "Interior Feature"
+          }
+        },
+        {
+          "id": 21,
+          "name": "Leather seats",
+          "Feature": {
+            "id": 1,
+            "key": "interior_feature",
+            "name": "Interior Feature"
+          }
+        },
+        {
+          "id": 23,
+          "name": "Multiple off road option selector",
+          "Feature": {
+            "id": 1,
+            "key": "interior_feature",
+            "name": "Interior Feature"
+          }
+        },
+        {
+          "id": 25,
+          "name": "Air conditioning",
+          "Feature": {
+            "id": 1,
+            "key": "interior_feature",
+            "name": "Interior Feature"
+          }
+        },
+        {
+          "id": 29,
+          "name": "Power seats",
+          "Feature": {
+            "id": 1,
+            "key": "interior_feature",
+            "name": "Interior Feature"
+          }
+        },
+        {
+          "id": 30,
+          "name": "Climate control",
+          "Feature": {
+            "id": 1,
+            "key": "interior_feature",
+            "name": "Interior Feature"
+          }
+        },
+        {
+          "id": 32,
+          "name": "Cruise control",
+          "Feature": {
+            "id": 1,
+            "key": "interior_feature",
+            "name": "Interior Feature"
+          }
+        },
+        {
+          "id": 44,
+          "name": "DRLs",
+          "Feature": {
+            "id": 2,
+            "key": "exterior_and_controls",
+            "name": "Exterior and Controls"
+          }
+        },
+        {
+          "id": 52,
+          "name": "Keyless go",
+          "Feature": {
+            "id": 2,
+            "key": "exterior_and_controls",
+            "name": "Exterior and Controls"
+          }
+        },
+        {
+          "id": 55,
+          "name": "Roof Rails",
+          "Feature": {
+            "id": 2,
+            "key": "exterior_and_controls",
+            "name": "Exterior and Controls"
+          }
+        },
+        {
+          "id": 64,
+          "name": "Anti-Theft Alarm System",
+          "Feature": {
+            "id": 3,
+            "key": "security",
+            "name": "Security"
+          }
+        },
+        {
+          "id": 70,
+          "name": "LED headlights",
+          "Feature": {
+            "id": 2,
+            "key": "exterior_and_controls",
+            "name": "Exterior and Controls"
+          }
+        },
+        {
+          "id": 73,
+          "name": "Vehicle Stability Control",
+          "Feature": {
+            "id": 3,
+            "key": "security",
+            "name": "Security"
+          }
+        },
+        {
+          "id": 74,
+          "name": "Speed Sensing Auto Door Lock",
+          "Feature": {
+            "id": 3,
+            "key": "security",
+            "name": "Security"
+          }
+        },
+        {
+          "id": 77,
+          "name": "ABS",
+          "Feature": {
+            "id": 3,
+            "key": "security",
+            "name": "Security"
+          }
+        },
+        {
+          "id": 78,
+          "name": "Airbags (front and side)",
+          "Feature": {
+            "id": 3,
+            "key": "security",
+            "name": "Security"
+          }
+        },
+        {
+          "id": 80,
+          "name": "Front wheel drive",
+          "Feature": {
+            "id": 3,
+            "key": "security",
+            "name": "Security"
+          }
+        },
+        {
+          "id": 83,
+          "name": "Traction Control",
+          "Feature": {
+            "id": 3,
+            "key": "security",
+            "name": "Security"
+          }
+        },
+        {
+          "id": 105,
+          "name": "Drive Modes",
+          "Feature": {
+            "id": 4,
+            "key": "comfort_and_convenience",
+            "name": "Comfort & Convenience"
+          }
+        },
+        {
+          "id": 110,
+          "name": "Rear AC Vents",
+          "Feature": {
+            "id": 4,
+            "key": "comfort_and_convenience",
+            "name": "Comfort & Convenience"
+          }
+        },
+        {
+          "id": 112,
+          "name": "Heads up display",
+          "Feature": {
+            "id": 4,
+            "key": "comfort_and_convenience",
+            "name": "Comfort & Convenience"
+          }
+        },
+        {
+          "id": 120,
+          "name": "Steering Switches",
+          "Feature": {
+            "id": 4,
+            "key": "comfort_and_convenience",
+            "name": "Comfort & Convenience"
+          }
+        },
+        {
+          "id": 121,
+          "name": "Power Windows",
+          "Feature": {
+            "id": 4,
+            "key": "comfort_and_convenience",
+            "name": "Comfort & Convenience"
+          }
+        },
+        {
+          "id": 126,
+          "name": "Tyre pressure warning system",
+          "Feature": {
+            "id": 4,
+            "key": "comfort_and_convenience",
+            "name": "Comfort & Convenience"
+          }
+        },
+        {
+          "id": 128,
+          "name": "Power locks",
+          "Feature": {
+            "id": 4,
+            "key": "comfort_and_convenience",
+            "name": "Comfort & Convenience"
+          }
+        },
+        {
+          "id": 133,
+          "name": "Push Start",
+          "Feature": {
+            "id": 4,
+            "key": "comfort_and_convenience",
+            "name": "Comfort & Convenience"
+          }
+        },
+        {
+          "id": 137,
+          "name": "Rear Camera",
+          "Feature": {
+            "id": 4,
+            "key": "comfort_and_convenience",
+            "name": "Comfort & Convenience"
+          }
+        },
+        {
+          "id": 140,
+          "name": "Parking sensor rear",
+          "Feature": {
+            "id": 4,
+            "key": "comfort_and_convenience",
+            "name": "Comfort & Convenience"
+          }
+        },
+        {
+          "id": 147,
+          "name": "Power Steering",
+          "Feature": {
+            "id": 4,
+            "key": "comfort_and_convenience",
+            "name": "Comfort & Convenience"
+          }
+        },
+        {
+          "id": 153,
+          "name": "USB & Auxiliary Cable",
+          "Feature": {
+            "id": 5,
+            "key": "infotainment",
+            "name": "Infotainment"
+          }
+        },
+        {
+          "id": 156,
+          "name": "Bluetooth system",
+          "Feature": {
+            "id": 5,
+            "key": "infotainment",
+            "name": "Infotainment"
+          }
+        },
+        {
+          "id": 159,
+          "name": "Rear Speakers",
+          "Feature": {
+            "id": 5,
+            "key": "infotainment",
+            "name": "Infotainment"
+          }
+        },
+        {
+          "id": 160,
+          "name": "Front Speakers",
+          "Feature": {
+            "id": 5,
+            "key": "infotainment",
+            "name": "Infotainment"
+          }
+        },
+        {
+          "id": 164,
+          "name": "Touch Screen",
+          "Feature": {
+            "id": 5,
+            "key": "infotainment",
+            "name": "Infotainment"
+          }
+        }
+      ],
+      "Tags": [],
+      "SEO_Metadatum": null,
+      "brochureFile": {
+        "id": "5f2fb577-c3b6-478e-b533-58d21bffd0db",
+        "name": "TOYOTA-URBAN-CRUISER-UBGLX-PV-1.5-AT-445399.pdf",
+        "isDirectory": false,
+        "path": "/TOYOTA-URBAN-CRUISER-UBGLX-PV-1.5-AT-445399.pdf",
+        "parentId": null,
+        "size": 6901410,
+        "mimeType": "application/pdf",
+        "originalPath": "/TOYOTA-URBAN-CRUISER-UBGLX-PV-1.5-AT-445399.pdf",
+        "compressedPath": null,
+        "thumbnailPath": null,
+        "webpPath": null,
+        "createdAt": "2025-03-19T13:56:43.453Z",
+        "updatedAt": "2025-03-19T13:56:43.453Z"
+      },
+      "inWishlist": false
+    }
+  }

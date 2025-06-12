@@ -1,0 +1,22 @@
+import {withTheme} from './ThemeAwareIcon';
+import FilterIconBase from './FilterIcon';
+import BrandLogosBase from './BrandLogos';
+import ListSearchIconBase from './ListSearchIcon';
+import EyeIconBase from './EyeIcon';
+import BlogIconBase from './BlogIcon';
+import ProfileIconBase from './ProfileIcon';
+import HatchbackIconBase from './HatchbackIcon';
+import SedanIconBase from './SedanIcon';
+import SUVIconBase from './SUVIcon';
+import BodyTypeIconComponent from './BodyTypeIconComponent';
+
+export const FilterIcon = withTheme(FilterIconBase);
+export const BrandLogos = withTheme(BrandLogosBase);
+export const ListSearchIcon = withTheme(ListSearchIconBase);
+export const EyeIcon = withTheme(EyeIconBase);
+export const BlogIcon = withTheme(BlogIconBase);
+export const ProfileIcon = withTheme(ProfileIconBase);
+export const HatchbackIcon = withTheme(HatchbackIconBase);
+export const SedanIcon = withTheme(SedanIconBase);
+export const SUVIcon = withTheme(SUVIconBase);
+export const BodyTypeIcon = withTheme(BodyTypeIconComponent);

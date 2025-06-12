@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "789807190580",
+    "project_id": "legend-motors-176df",
+    "storage_bucket": "legend-motors-176df.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789807190580:android:dfa90c8bebbe4196baf061",
+        "android_client_info": {
+          "package_name": "com.lhgl.LegendCarTradingCustomer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789807190580-0jj250oouo3glg4l1n0o95ta4bsibc31.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lhgl.LegendCarTradingCustomer",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "789807190580-orsngsii9b43pk2sbr4u93p59l55ioqn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lhgl.LegendCarTradingCustomer",
+            "certificate_hash": "57844280933eff1839e573fcc8b5844fdeb74ff1"
+          }
+        },
+        {
+          "client_id": "789807190580-mo23ir6p664eb69bug94iq12ciluesjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3okL8IASb3s6tNj1SbU33CXCIV7mXUlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789807190580-mo23ir6p664eb69bug94iq12ciluesjl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "789807190580-bcbo9v2phpgjh8lnbfl6emqaemjijmsm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lhgldev.LegendCarTradingCustomerApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

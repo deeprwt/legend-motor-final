@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>789807190580-bcbo9v2phpgjh8lnbfl6emqaemjijmsm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.789807190580-bcbo9v2phpgjh8lnbfl6emqaemjijmsm</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>789807190580-0jj250oouo3glg4l1n0o95ta4bsibc31.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD-Ayn87r9t8Od6FVCeTdVyZVvVdgCrraQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>789807190580</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.lhgldev.LegendCarTradingCustomerApp</string>
+	<key>PROJECT_ID</key>
+	<string>legend-motors-176df</string>
+	<key>STORAGE_BUCKET</key>
+	<string>legend-motors-176df.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:789807190580:ios:be80f27b2f0e45d1baf061</string>
+</dict>
+</plist>
